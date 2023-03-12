@@ -9,4 +9,4 @@ This is the official GitHub Repository for my Modded Survival world on the Java 
 
 #### No older versions are available at this time.
 
-</details.
+</details>
