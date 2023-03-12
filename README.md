@@ -1,6 +1,7 @@
+<!--
 # Modded Survival
-
 This is the official GitHub Repository for my Modded Survival world on the Java Edition of Minecraft.
+-->
 
 <!--
 ### Minecraft 1.19.4
