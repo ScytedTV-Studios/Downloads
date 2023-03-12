@@ -24,3 +24,7 @@ This is the official GitHub Repository for my Modded Survival world on the Java 
 <p>No older versions are available at this time.</p>
 </details>
 -->
+
+# Build Settings
+markdown: kramdown
+theme: minima
