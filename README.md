@@ -6,7 +6,7 @@ This is the official GitHub Repository for my Modded Survival world on the Java 
 
 <details>
 <summary>Preview Versions</summary>
-<p>**No preview versions are available at this time.**</p>
+<p> **No preview versions are available at this time.** </p>
 </details>
 
 ### Minecraft 1.19.3
@@ -17,5 +17,5 @@ This is the official GitHub Repository for my Modded Survival world on the Java 
 
 <details>
 <summary>Show all versions</summary>
-<p>**No older versions are available at this time.**</p>
+<p> **No older versions are available at this time.** </p>
 </details>
