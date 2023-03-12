@@ -2,12 +2,14 @@
 
 This is the official GitHub Repository for my Modded Survival world on the Java Edition of Minecraft.
 
+<!--
 ### Minecraft 1.19.4
 
 <details>
 <summary>Preview Versions</summary>
-<p> **No preview versions are available at this time.** </p>
+<p>No preview versions are available at this time.</p>
 </details>
+-->
 
 ### Minecraft 1.19.3
 
@@ -15,9 +17,9 @@ This is the official GitHub Repository for my Modded Survival world on the Java 
 | --- | --- | --- |
 | **`1.0.0 (Current)`** | **`March 12, 2023`** | <!-- [**`Download`**]() --> *`Coming soom!`*|
 
+<!--
 <details>
 <summary>Show all versions</summary>
-<p>
-#### No older versions are available at this time.
-</p>
+<p>No older versions are available at this time.</p>
 </details>
+-->
