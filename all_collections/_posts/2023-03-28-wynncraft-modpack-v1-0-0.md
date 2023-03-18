@@ -5,7 +5,7 @@ date: 2023-03-28 15:33:00
 categories: [fiction, jekyll]
 ---
 
-### Minecraft 1.12.2
+**Minecraft 1.12.2**
 
 | Pack Version | Release Date | Download |
 | --- | --- | --- |
