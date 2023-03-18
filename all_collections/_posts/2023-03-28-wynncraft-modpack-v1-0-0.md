@@ -2,7 +2,10 @@
 layout: post
 title: Wynncraft Modpack v1.0.0
 date: 2023-03-28 15:33:00
+<!--
 categories: [Minecraft, Wynncraft Modpack]
+-->
+categories: [jekyll]
 ---
 
 ### Minecraft 1.12.2
