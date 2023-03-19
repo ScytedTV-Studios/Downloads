@@ -24,3 +24,6 @@ defaults:
       layout: "post"
       permalink: /posts/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
+
+- name: Git Auto Commit
+  uses: stefanzweifel/git-auto-commit-action@v4.16.0
