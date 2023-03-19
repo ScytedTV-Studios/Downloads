@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Wynncraft Modpack v1.0.0
+title: Wynncraft Modpack
 date: 2023-03-18 15:33:00
-categories: [Minecraft, Wynncraft Modpack]
+categories: [Minecraft Modpacks]
 ---
 
 **Minecraft 1.12.2**
